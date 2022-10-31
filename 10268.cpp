@@ -1,10 +1,10 @@
 /*
 Date:		2021/12/18 
 Number: 	#10268 
-Purpose:	·L¤À­pºâ 
+Purpose:	å¾®åˆ†è¨ˆç®— 
 */
 /*
-1. ¥i¥H¥Î if ( getchar() == '\n' ) ÀË¬d¬O§_Åª¨ì¦æ¥½ 
+1. å¯ä»¥ç”¨ if ( getchar() == '\n' ) æª¢æŸ¥æ˜¯å¦è®€åˆ°è¡Œæœ« 
 */ 
 
 #include <iostream>
